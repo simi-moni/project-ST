@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "eHptVrjhD0I8COuG+RFaNPNNPWzfvMU3QenxIWWLczEYf6JEZiekgkbBfuTwV9OSCu9Nh5jrAnDr8W0PVACAxQ==",
+  "success": true,
+  "projectFilePath": "D:\\OnlineTickets\\Services\\OnlineTickets.Services.Mapping\\OnlineTickets.Services.Mapping.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andre\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.312\\stylecop.analyzers.1.2.0-beta.312.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.312\\stylecop.analyzers.unstable.1.2.0.312.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

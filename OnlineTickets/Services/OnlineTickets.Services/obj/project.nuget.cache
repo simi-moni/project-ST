@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zaD26kFUpkm9jUUEfizQ8i6l9KWncUhDZ/kqs8e5SHUv9nmkDNe7pc45qq3tKdL9ddA96u7HuIrGEAYQ/E0Rxw==",
+  "success": true,
+  "projectFilePath": "D:\\OnlineTickets\\Services\\OnlineTickets.Services\\OnlineTickets.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andre\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.312\\stylecop.analyzers.1.2.0-beta.312.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.312\\stylecop.analyzers.unstable.1.2.0.312.nupkg.sha512"
+  ],
+  "logs": []
+}
