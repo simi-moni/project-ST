@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ff90caf9">
+    <Button
+        android:text="Buy Ticket"
+        android:layout_width="336.8dp"
+        android:layout_height="65.9dp"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:id="@+id/btn_buy_ticket"
+        android:layout_marginTop="50sp"
+        android:textSize="70px"
+        android:layout_marginLeft="100px"
+        />
+    <Button
+        android:text="Show QR Code"
+        android:layout_width="336.8dp"
+        android:layout_height="65.9dp"
+        android:id="@+id/btn_show_qr"
+        android:layout_marginTop="50sp"
+        android:textSize="70px"
+        android:layout_marginLeft="100px"/>
+    <Button
+        android:text="History"
+        android:layout_width="336.8dp"
+        android:layout_height="65.9dp"
+        android:id="@+id/btn_history"
+        android:layout_marginTop="50sp"
+        android:textSize="70px"
+        android:layout_marginLeft="100px"/>
+    <Button
+        android:text="Account Settings"
+        android:layout_width="336.8dp"
+        android:layout_height="65.9dp"
+        android:id="@+id/btn_acc_settings"
+        android:layout_marginTop="50sp"
+        android:textSize="70px"
+        android:layout_marginLeft="100px"/>
+    <Button
+        android:text="Log Out"
+        android:layout_width="336.8dp"
+        android:layout_height="65.9dp"
+        android:id="@+id/btn_logout" 
+        android:layout_marginTop="50sp"
+        android:textSize="70px"
+        android:layout_marginLeft="100px"/>
+
+</LinearLayout>
