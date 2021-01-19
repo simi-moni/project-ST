@@ -6749,11 +6749,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\OnlineTickets\\Tests\\Sandbox\\Sandbox.csproj",
+      "projectUniqueName": "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\Tests\\Sandbox\\Sandbox.csproj",
       "projectName": "Sandbox",
-      "projectPath": "D:\\OnlineTickets\\Tests\\Sandbox\\Sandbox.csproj",
+      "projectPath": "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\Tests\\Sandbox\\Sandbox.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "D:\\OnlineTickets\\Tests\\Sandbox\\obj\\",
+      "outputPath": "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\Tests\\Sandbox\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -6774,29 +6774,29 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\OnlineTickets\\Data\\OnlineTickets.Data.Common\\OnlineTickets.Data.Common.csproj": {
-              "projectPath": "D:\\OnlineTickets\\Data\\OnlineTickets.Data.Common\\OnlineTickets.Data.Common.csproj"
+            "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\Data\\OnlineTickets.Data.Common\\OnlineTickets.Data.Common.csproj": {
+              "projectPath": "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\Data\\OnlineTickets.Data.Common\\OnlineTickets.Data.Common.csproj"
             },
-            "D:\\OnlineTickets\\Data\\OnlineTickets.Data.Models\\OnlineTickets.Data.Models.csproj": {
-              "projectPath": "D:\\OnlineTickets\\Data\\OnlineTickets.Data.Models\\OnlineTickets.Data.Models.csproj"
+            "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\Data\\OnlineTickets.Data.Models\\OnlineTickets.Data.Models.csproj": {
+              "projectPath": "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\Data\\OnlineTickets.Data.Models\\OnlineTickets.Data.Models.csproj"
             },
-            "D:\\OnlineTickets\\Data\\OnlineTickets.Data\\OnlineTickets.Data.csproj": {
-              "projectPath": "D:\\OnlineTickets\\Data\\OnlineTickets.Data\\OnlineTickets.Data.csproj"
+            "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\Data\\OnlineTickets.Data\\OnlineTickets.Data.csproj": {
+              "projectPath": "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\Data\\OnlineTickets.Data\\OnlineTickets.Data.csproj"
             },
-            "D:\\OnlineTickets\\OnlineTickets.Common\\OnlineTickets.Common.csproj": {
-              "projectPath": "D:\\OnlineTickets\\OnlineTickets.Common\\OnlineTickets.Common.csproj"
+            "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\OnlineTickets.Common\\OnlineTickets.Common.csproj": {
+              "projectPath": "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\OnlineTickets.Common\\OnlineTickets.Common.csproj"
             },
-            "D:\\OnlineTickets\\Services\\OnlineTickets.Services.Data\\OnlineTickets.Services.Data.csproj": {
-              "projectPath": "D:\\OnlineTickets\\Services\\OnlineTickets.Services.Data\\OnlineTickets.Services.Data.csproj"
+            "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\Services\\OnlineTickets.Services.Data\\OnlineTickets.Services.Data.csproj": {
+              "projectPath": "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\Services\\OnlineTickets.Services.Data\\OnlineTickets.Services.Data.csproj"
             },
-            "D:\\OnlineTickets\\Services\\OnlineTickets.Services.Mapping\\OnlineTickets.Services.Mapping.csproj": {
-              "projectPath": "D:\\OnlineTickets\\Services\\OnlineTickets.Services.Mapping\\OnlineTickets.Services.Mapping.csproj"
+            "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\Services\\OnlineTickets.Services.Mapping\\OnlineTickets.Services.Mapping.csproj": {
+              "projectPath": "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\Services\\OnlineTickets.Services.Mapping\\OnlineTickets.Services.Mapping.csproj"
             },
-            "D:\\OnlineTickets\\Services\\OnlineTickets.Services.Messaging\\OnlineTickets.Services.Messaging.csproj": {
-              "projectPath": "D:\\OnlineTickets\\Services\\OnlineTickets.Services.Messaging\\OnlineTickets.Services.Messaging.csproj"
+            "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\Services\\OnlineTickets.Services.Messaging\\OnlineTickets.Services.Messaging.csproj": {
+              "projectPath": "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\Services\\OnlineTickets.Services.Messaging\\OnlineTickets.Services.Messaging.csproj"
             },
-            "D:\\OnlineTickets\\Services\\OnlineTickets.Services\\OnlineTickets.Services.csproj": {
-              "projectPath": "D:\\OnlineTickets\\Services\\OnlineTickets.Services\\OnlineTickets.Services.csproj"
+            "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\Services\\OnlineTickets.Services\\OnlineTickets.Services.csproj": {
+              "projectPath": "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\Services\\OnlineTickets.Services\\OnlineTickets.Services.csproj"
             }
           }
         }

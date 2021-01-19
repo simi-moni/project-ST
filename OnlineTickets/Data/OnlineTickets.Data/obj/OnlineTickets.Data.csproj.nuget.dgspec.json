@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\OnlineTickets\\Data\\OnlineTickets.Data\\OnlineTickets.Data.csproj": {}
+    "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\Data\\OnlineTickets.Data\\OnlineTickets.Data.csproj": {}
   },
   "projects": {
-    "D:\\OnlineTickets\\Data\\OnlineTickets.Data.Common\\OnlineTickets.Data.Common.csproj": {
+    "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\Data\\OnlineTickets.Data.Common\\OnlineTickets.Data.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OnlineTickets\\Data\\OnlineTickets.Data.Common\\OnlineTickets.Data.Common.csproj",
+        "projectUniqueName": "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\Data\\OnlineTickets.Data.Common\\OnlineTickets.Data.Common.csproj",
         "projectName": "OnlineTickets.Data.Common",
-        "projectPath": "D:\\OnlineTickets\\Data\\OnlineTickets.Data.Common\\OnlineTickets.Data.Common.csproj",
+        "projectPath": "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\Data\\OnlineTickets.Data.Common\\OnlineTickets.Data.Common.csproj",
         "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "D:\\OnlineTickets\\Data\\OnlineTickets.Data.Common\\obj\\",
+        "outputPath": "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\Data\\OnlineTickets.Data.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -74,14 +74,14 @@
         }
       }
     },
-    "D:\\OnlineTickets\\Data\\OnlineTickets.Data.Models\\OnlineTickets.Data.Models.csproj": {
+    "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\Data\\OnlineTickets.Data.Models\\OnlineTickets.Data.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OnlineTickets\\Data\\OnlineTickets.Data.Models\\OnlineTickets.Data.Models.csproj",
+        "projectUniqueName": "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\Data\\OnlineTickets.Data.Models\\OnlineTickets.Data.Models.csproj",
         "projectName": "OnlineTickets.Data.Models",
-        "projectPath": "D:\\OnlineTickets\\Data\\OnlineTickets.Data.Models\\OnlineTickets.Data.Models.csproj",
+        "projectPath": "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\Data\\OnlineTickets.Data.Models\\OnlineTickets.Data.Models.csproj",
         "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "D:\\OnlineTickets\\Data\\OnlineTickets.Data.Models\\obj\\",
+        "outputPath": "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\Data\\OnlineTickets.Data.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -102,8 +102,8 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "D:\\OnlineTickets\\Data\\OnlineTickets.Data.Common\\OnlineTickets.Data.Common.csproj": {
-                "projectPath": "D:\\OnlineTickets\\Data\\OnlineTickets.Data.Common\\OnlineTickets.Data.Common.csproj"
+              "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\Data\\OnlineTickets.Data.Common\\OnlineTickets.Data.Common.csproj": {
+                "projectPath": "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\Data\\OnlineTickets.Data.Common\\OnlineTickets.Data.Common.csproj"
               }
             }
           }
@@ -148,14 +148,14 @@
         }
       }
     },
-    "D:\\OnlineTickets\\Data\\OnlineTickets.Data\\OnlineTickets.Data.csproj": {
+    "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\Data\\OnlineTickets.Data\\OnlineTickets.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OnlineTickets\\Data\\OnlineTickets.Data\\OnlineTickets.Data.csproj",
+        "projectUniqueName": "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\Data\\OnlineTickets.Data\\OnlineTickets.Data.csproj",
         "projectName": "OnlineTickets.Data",
-        "projectPath": "D:\\OnlineTickets\\Data\\OnlineTickets.Data\\OnlineTickets.Data.csproj",
+        "projectPath": "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\Data\\OnlineTickets.Data\\OnlineTickets.Data.csproj",
         "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "D:\\OnlineTickets\\Data\\OnlineTickets.Data\\obj\\",
+        "outputPath": "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\Data\\OnlineTickets.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -176,14 +176,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\OnlineTickets\\Data\\OnlineTickets.Data.Common\\OnlineTickets.Data.Common.csproj": {
-                "projectPath": "D:\\OnlineTickets\\Data\\OnlineTickets.Data.Common\\OnlineTickets.Data.Common.csproj"
+              "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\Data\\OnlineTickets.Data.Common\\OnlineTickets.Data.Common.csproj": {
+                "projectPath": "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\Data\\OnlineTickets.Data.Common\\OnlineTickets.Data.Common.csproj"
               },
-              "D:\\OnlineTickets\\Data\\OnlineTickets.Data.Models\\OnlineTickets.Data.Models.csproj": {
-                "projectPath": "D:\\OnlineTickets\\Data\\OnlineTickets.Data.Models\\OnlineTickets.Data.Models.csproj"
+              "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\Data\\OnlineTickets.Data.Models\\OnlineTickets.Data.Models.csproj": {
+                "projectPath": "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\Data\\OnlineTickets.Data.Models\\OnlineTickets.Data.Models.csproj"
               },
-              "D:\\OnlineTickets\\OnlineTickets.Common\\OnlineTickets.Common.csproj": {
-                "projectPath": "D:\\OnlineTickets\\OnlineTickets.Common\\OnlineTickets.Common.csproj"
+              "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\OnlineTickets.Common\\OnlineTickets.Common.csproj": {
+                "projectPath": "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\OnlineTickets.Common\\OnlineTickets.Common.csproj"
               }
             }
           }
@@ -248,14 +248,14 @@
         }
       }
     },
-    "D:\\OnlineTickets\\OnlineTickets.Common\\OnlineTickets.Common.csproj": {
+    "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\OnlineTickets.Common\\OnlineTickets.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OnlineTickets\\OnlineTickets.Common\\OnlineTickets.Common.csproj",
+        "projectUniqueName": "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\OnlineTickets.Common\\OnlineTickets.Common.csproj",
         "projectName": "OnlineTickets.Common",
-        "projectPath": "D:\\OnlineTickets\\OnlineTickets.Common\\OnlineTickets.Common.csproj",
+        "projectPath": "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\OnlineTickets.Common\\OnlineTickets.Common.csproj",
         "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "D:\\OnlineTickets\\OnlineTickets.Common\\obj\\",
+        "outputPath": "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\OnlineTickets.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

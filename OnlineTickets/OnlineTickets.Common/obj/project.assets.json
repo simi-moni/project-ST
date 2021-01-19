@@ -66,11 +66,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\OnlineTickets\\OnlineTickets.Common\\OnlineTickets.Common.csproj",
+      "projectUniqueName": "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\OnlineTickets.Common\\OnlineTickets.Common.csproj",
       "projectName": "OnlineTickets.Common",
-      "projectPath": "D:\\OnlineTickets\\OnlineTickets.Common\\OnlineTickets.Common.csproj",
+      "projectPath": "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\OnlineTickets.Common\\OnlineTickets.Common.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "D:\\OnlineTickets\\OnlineTickets.Common\\obj\\",
+      "outputPath": "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\OnlineTickets.Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

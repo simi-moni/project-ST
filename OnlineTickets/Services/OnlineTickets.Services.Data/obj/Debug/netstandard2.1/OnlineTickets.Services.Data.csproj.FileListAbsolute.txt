@@ -1,0 +1,16 @@
+D:\csharp-jobsite-repository\project-ST\OnlineTickets\Services\OnlineTickets.Services.Data\bin\Debug\netstandard2.1\OnlineTickets.Services.Data.deps.json
+D:\csharp-jobsite-repository\project-ST\OnlineTickets\Services\OnlineTickets.Services.Data\bin\Debug\netstandard2.1\OnlineTickets.Services.Data.dll
+D:\csharp-jobsite-repository\project-ST\OnlineTickets\Services\OnlineTickets.Services.Data\bin\Debug\netstandard2.1\OnlineTickets.Services.Data.pdb
+D:\csharp-jobsite-repository\project-ST\OnlineTickets\Services\OnlineTickets.Services.Data\bin\Debug\netstandard2.1\OnlineTickets.Data.Common.dll
+D:\csharp-jobsite-repository\project-ST\OnlineTickets\Services\OnlineTickets.Services.Data\bin\Debug\netstandard2.1\OnlineTickets.Data.Models.dll
+D:\csharp-jobsite-repository\project-ST\OnlineTickets\Services\OnlineTickets.Services.Data\bin\Debug\netstandard2.1\OnlineTickets.Services.Mapping.dll
+D:\csharp-jobsite-repository\project-ST\OnlineTickets\Services\OnlineTickets.Services.Data\bin\Debug\netstandard2.1\OnlineTickets.Data.Common.pdb
+D:\csharp-jobsite-repository\project-ST\OnlineTickets\Services\OnlineTickets.Services.Data\bin\Debug\netstandard2.1\OnlineTickets.Data.Models.pdb
+D:\csharp-jobsite-repository\project-ST\OnlineTickets\Services\OnlineTickets.Services.Data\bin\Debug\netstandard2.1\OnlineTickets.Services.Mapping.pdb
+D:\csharp-jobsite-repository\project-ST\OnlineTickets\Services\OnlineTickets.Services.Data\obj\Debug\netstandard2.1\OnlineTickets.Services.Data.csprojAssemblyReference.cache
+D:\csharp-jobsite-repository\project-ST\OnlineTickets\Services\OnlineTickets.Services.Data\obj\Debug\netstandard2.1\OnlineTickets.Services.Data.AssemblyInfoInputs.cache
+D:\csharp-jobsite-repository\project-ST\OnlineTickets\Services\OnlineTickets.Services.Data\obj\Debug\netstandard2.1\OnlineTickets.Services.Data.AssemblyInfo.cs
+D:\csharp-jobsite-repository\project-ST\OnlineTickets\Services\OnlineTickets.Services.Data\obj\Debug\netstandard2.1\OnlineTickets.Services.Data.csproj.CoreCompileInputs.cache
+D:\csharp-jobsite-repository\project-ST\OnlineTickets\Services\OnlineTickets.Services.Data\obj\Debug\netstandard2.1\OnlineTickets.Services.Data.csproj.CopyComplete
+D:\csharp-jobsite-repository\project-ST\OnlineTickets\Services\OnlineTickets.Services.Data\obj\Debug\netstandard2.1\OnlineTickets.Services.Data.dll
+D:\csharp-jobsite-repository\project-ST\OnlineTickets\Services\OnlineTickets.Services.Data\obj\Debug\netstandard2.1\OnlineTickets.Services.Data.pdb

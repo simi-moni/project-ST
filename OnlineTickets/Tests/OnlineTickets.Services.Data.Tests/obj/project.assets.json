@@ -8830,11 +8830,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\OnlineTickets\\Tests\\OnlineTickets.Services.Data.Tests\\OnlineTickets.Services.Data.Tests.csproj",
+      "projectUniqueName": "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\Tests\\OnlineTickets.Services.Data.Tests\\OnlineTickets.Services.Data.Tests.csproj",
       "projectName": "OnlineTickets.Services.Data.Tests",
-      "projectPath": "D:\\OnlineTickets\\Tests\\OnlineTickets.Services.Data.Tests\\OnlineTickets.Services.Data.Tests.csproj",
+      "projectPath": "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\Tests\\OnlineTickets.Services.Data.Tests\\OnlineTickets.Services.Data.Tests.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "D:\\OnlineTickets\\Tests\\OnlineTickets.Services.Data.Tests\\obj\\",
+      "outputPath": "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\Tests\\OnlineTickets.Services.Data.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -8855,11 +8855,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\OnlineTickets\\Data\\OnlineTickets.Data\\OnlineTickets.Data.csproj": {
-              "projectPath": "D:\\OnlineTickets\\Data\\OnlineTickets.Data\\OnlineTickets.Data.csproj"
+            "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\Data\\OnlineTickets.Data\\OnlineTickets.Data.csproj": {
+              "projectPath": "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\Data\\OnlineTickets.Data\\OnlineTickets.Data.csproj"
             },
-            "D:\\OnlineTickets\\Services\\OnlineTickets.Services.Data\\OnlineTickets.Services.Data.csproj": {
-              "projectPath": "D:\\OnlineTickets\\Services\\OnlineTickets.Services.Data\\OnlineTickets.Services.Data.csproj"
+            "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\Services\\OnlineTickets.Services.Data\\OnlineTickets.Services.Data.csproj": {
+              "projectPath": "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\Services\\OnlineTickets.Services.Data\\OnlineTickets.Services.Data.csproj"
             }
           }
         }

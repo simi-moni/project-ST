@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vQ1jCSK1VpvxJeSjgsHT9lgEvTLKtfcQqu01j92Yu4V3o+/bwXu56dZX1m/xE4sDIAzaSxjdb2Cl/y4qdsIcMQ==",
+  "dgSpecHash": "t3+1oZRwqjnT7xED2N1I4qME1sgpmZHYL/M572Mh5N6AURNozkVhkDkGyW6TiKEvjYhtzZOnv2qhZlq9BZ0Bug==",
   "success": true,
-  "projectFilePath": "D:\\OnlineTickets\\OnlineTickets.Common\\OnlineTickets.Common.csproj",
+  "projectFilePath": "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\OnlineTickets.Common\\OnlineTickets.Common.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andre\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.312\\stylecop.analyzers.1.2.0-beta.312.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.312\\stylecop.analyzers.unstable.1.2.0.312.nupkg.sha512"

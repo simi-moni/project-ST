@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KGqkc1eFrxmAlFiDTqp+iunG+6NQy0AFxqM3iKiesceFWzFCuNRWK3RftFnjmRM+yYfioiPQnJB9/SHVSCMqRA==",
+  "dgSpecHash": "oLUzFArz0J3qMAhsu5VstNJHbgkP5z+fdNJ/gmok3DfWzMbf92ZyziNdqLFLxS/Wo5DQmp3fsQx63D1AWn3mBw==",
   "success": true,
-  "projectFilePath": "D:\\OnlineTickets\\Tests\\OnlineTickets.Services.Data.Tests\\OnlineTickets.Services.Data.Tests.csproj",
+  "projectFilePath": "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\Tests\\OnlineTickets.Services.Data.Tests\\OnlineTickets.Services.Data.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andre\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",

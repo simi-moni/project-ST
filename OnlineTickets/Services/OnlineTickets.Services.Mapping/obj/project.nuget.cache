@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eHptVrjhD0I8COuG+RFaNPNNPWzfvMU3QenxIWWLczEYf6JEZiekgkbBfuTwV9OSCu9Nh5jrAnDr8W0PVACAxQ==",
+  "dgSpecHash": "i+biRVFOsWkupKUJmJLWlfpd2nsN0y/Lff0u46+rdkS3xywjuZE9PyAOuRd1gs0856kVWIIlhlwQ4TlpjO5kWQ==",
   "success": true,
-  "projectFilePath": "D:\\OnlineTickets\\Services\\OnlineTickets.Services.Mapping\\OnlineTickets.Services.Mapping.csproj",
+  "projectFilePath": "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\Services\\OnlineTickets.Services.Mapping\\OnlineTickets.Services.Mapping.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andre\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

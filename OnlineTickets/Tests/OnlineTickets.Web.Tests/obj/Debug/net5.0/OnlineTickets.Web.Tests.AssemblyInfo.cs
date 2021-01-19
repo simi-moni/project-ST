@@ -12,8 +12,8 @@ using System;
 using System.Reflection;
 
 [assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap4")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("OnlineTickets.Data", "D:\\OnlineTickets\\Data\\OnlineTickets.Data", "OnlineTickets.Data.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("OnlineTickets.Web", "D:\\OnlineTickets\\Web\\OnlineTickets.Web", "OnlineTickets.Web.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("OnlineTickets.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\Data\\OnlineTickets.Data", "OnlineTickets.Data.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("OnlineTickets.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\Web\\OnlineTickets.Web", "OnlineTickets.Web.csproj", "0")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("OnlineTickets.Web.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]

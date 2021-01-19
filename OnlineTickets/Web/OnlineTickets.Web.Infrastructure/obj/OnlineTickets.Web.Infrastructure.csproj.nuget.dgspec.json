@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\OnlineTickets\\Web\\OnlineTickets.Web.Infrastructure\\OnlineTickets.Web.Infrastructure.csproj": {}
+    "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\Web\\OnlineTickets.Web.Infrastructure\\OnlineTickets.Web.Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\OnlineTickets\\Web\\OnlineTickets.Web.Infrastructure\\OnlineTickets.Web.Infrastructure.csproj": {
+    "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\Web\\OnlineTickets.Web.Infrastructure\\OnlineTickets.Web.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OnlineTickets\\Web\\OnlineTickets.Web.Infrastructure\\OnlineTickets.Web.Infrastructure.csproj",
+        "projectUniqueName": "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\Web\\OnlineTickets.Web.Infrastructure\\OnlineTickets.Web.Infrastructure.csproj",
         "projectName": "OnlineTickets.Web.Infrastructure",
-        "projectPath": "D:\\OnlineTickets\\Web\\OnlineTickets.Web.Infrastructure\\OnlineTickets.Web.Infrastructure.csproj",
+        "projectPath": "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\Web\\OnlineTickets.Web.Infrastructure\\OnlineTickets.Web.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "D:\\OnlineTickets\\Web\\OnlineTickets.Web.Infrastructure\\obj\\",
+        "outputPath": "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\Web\\OnlineTickets.Web.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

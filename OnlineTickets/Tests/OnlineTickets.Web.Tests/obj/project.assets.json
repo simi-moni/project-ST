@@ -11258,11 +11258,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\OnlineTickets\\Tests\\OnlineTickets.Web.Tests\\OnlineTickets.Web.Tests.csproj",
+      "projectUniqueName": "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\Tests\\OnlineTickets.Web.Tests\\OnlineTickets.Web.Tests.csproj",
       "projectName": "OnlineTickets.Web.Tests",
-      "projectPath": "D:\\OnlineTickets\\Tests\\OnlineTickets.Web.Tests\\OnlineTickets.Web.Tests.csproj",
+      "projectPath": "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\Tests\\OnlineTickets.Web.Tests\\OnlineTickets.Web.Tests.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "D:\\OnlineTickets\\Tests\\OnlineTickets.Web.Tests\\obj\\",
+      "outputPath": "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\Tests\\OnlineTickets.Web.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -11283,8 +11283,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\OnlineTickets\\Web\\OnlineTickets.Web\\OnlineTickets.Web.csproj": {
-              "projectPath": "D:\\OnlineTickets\\Web\\OnlineTickets.Web\\OnlineTickets.Web.csproj"
+            "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\Web\\OnlineTickets.Web\\OnlineTickets.Web.csproj": {
+              "projectPath": "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\Web\\OnlineTickets.Web\\OnlineTickets.Web.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lWPu6M3Ube2F3Sqwn6cscyYT0e71NFd+kI3X6ErkXAoqG7iYMXyiP/AajoUnbIwUy1hvfbPmOsViTVHPLKpPXw==",
+  "dgSpecHash": "67aGzNn+OOW7Q6tGR3gEOY11p4y+WAKBaGrddMS70F5xddMxE87yu1pDJYOwZHdbCn4+F2stI+pf5SYt+8zGng==",
   "success": true,
-  "projectFilePath": "D:\\OnlineTickets\\Services\\OnlineTickets.Services.Messaging\\OnlineTickets.Services.Messaging.csproj",
+  "projectFilePath": "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\Services\\OnlineTickets.Services.Messaging\\OnlineTickets.Services.Messaging.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andre\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\microsoft.netcore.platforms\\1.0.1\\microsoft.netcore.platforms.1.0.1.nupkg.sha512",

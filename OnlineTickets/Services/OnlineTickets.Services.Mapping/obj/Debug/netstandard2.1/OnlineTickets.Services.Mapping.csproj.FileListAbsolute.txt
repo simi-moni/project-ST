@@ -1,0 +1,9 @@
+D:\csharp-jobsite-repository\project-ST\OnlineTickets\Services\OnlineTickets.Services.Mapping\bin\Debug\netstandard2.1\OnlineTickets.Services.Mapping.deps.json
+D:\csharp-jobsite-repository\project-ST\OnlineTickets\Services\OnlineTickets.Services.Mapping\bin\Debug\netstandard2.1\OnlineTickets.Services.Mapping.dll
+D:\csharp-jobsite-repository\project-ST\OnlineTickets\Services\OnlineTickets.Services.Mapping\bin\Debug\netstandard2.1\OnlineTickets.Services.Mapping.pdb
+D:\csharp-jobsite-repository\project-ST\OnlineTickets\Services\OnlineTickets.Services.Mapping\obj\Debug\netstandard2.1\OnlineTickets.Services.Mapping.csprojAssemblyReference.cache
+D:\csharp-jobsite-repository\project-ST\OnlineTickets\Services\OnlineTickets.Services.Mapping\obj\Debug\netstandard2.1\OnlineTickets.Services.Mapping.AssemblyInfoInputs.cache
+D:\csharp-jobsite-repository\project-ST\OnlineTickets\Services\OnlineTickets.Services.Mapping\obj\Debug\netstandard2.1\OnlineTickets.Services.Mapping.AssemblyInfo.cs
+D:\csharp-jobsite-repository\project-ST\OnlineTickets\Services\OnlineTickets.Services.Mapping\obj\Debug\netstandard2.1\OnlineTickets.Services.Mapping.csproj.CoreCompileInputs.cache
+D:\csharp-jobsite-repository\project-ST\OnlineTickets\Services\OnlineTickets.Services.Mapping\obj\Debug\netstandard2.1\OnlineTickets.Services.Mapping.dll
+D:\csharp-jobsite-repository\project-ST\OnlineTickets\Services\OnlineTickets.Services.Mapping\obj\Debug\netstandard2.1\OnlineTickets.Services.Mapping.pdb

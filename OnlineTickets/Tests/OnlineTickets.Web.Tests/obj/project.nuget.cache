@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rEugvVUx6RQm9F8vy5KZbK2nFU92bDTDu4S7G17wlMhXvaluYMWTbMtWi+VkjGYHNQSv0ZuBoRlfV8H2qMNGDA==",
+  "dgSpecHash": "6JI0QPsEckIsvOmtmPfhrRVpcUvioOd/4ATxhq+2u+jA5mRUQcbkG0qpcoIR7ZbNQVd3l1zfbql6N22B2ofrNQ==",
   "success": true,
-  "projectFilePath": "D:\\OnlineTickets\\Tests\\OnlineTickets.Web.Tests\\OnlineTickets.Web.Tests.csproj",
+  "projectFilePath": "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\Tests\\OnlineTickets.Web.Tests\\OnlineTickets.Web.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andre\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\buildbundlerminifier\\3.2.449\\buildbundlerminifier.3.2.449.nupkg.sha512",

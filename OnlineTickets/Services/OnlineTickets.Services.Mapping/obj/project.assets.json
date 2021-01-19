@@ -237,11 +237,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\OnlineTickets\\Services\\OnlineTickets.Services.Mapping\\OnlineTickets.Services.Mapping.csproj",
+      "projectUniqueName": "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\Services\\OnlineTickets.Services.Mapping\\OnlineTickets.Services.Mapping.csproj",
       "projectName": "OnlineTickets.Services.Mapping",
-      "projectPath": "D:\\OnlineTickets\\Services\\OnlineTickets.Services.Mapping\\OnlineTickets.Services.Mapping.csproj",
+      "projectPath": "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\Services\\OnlineTickets.Services.Mapping\\OnlineTickets.Services.Mapping.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "D:\\OnlineTickets\\Services\\OnlineTickets.Services.Mapping\\obj\\",
+      "outputPath": "D:\\csharp-jobsite-repository\\project-ST\\OnlineTickets\\Services\\OnlineTickets.Services.Mapping\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

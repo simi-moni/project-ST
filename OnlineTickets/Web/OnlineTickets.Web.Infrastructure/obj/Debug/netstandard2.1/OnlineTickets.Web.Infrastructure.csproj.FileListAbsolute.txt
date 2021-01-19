@@ -1,0 +1,8 @@
+D:\csharp-jobsite-repository\project-ST\OnlineTickets\Web\OnlineTickets.Web.Infrastructure\bin\Debug\netstandard2.1\OnlineTickets.Web.Infrastructure.deps.json
+D:\csharp-jobsite-repository\project-ST\OnlineTickets\Web\OnlineTickets.Web.Infrastructure\bin\Debug\netstandard2.1\OnlineTickets.Web.Infrastructure.dll
+D:\csharp-jobsite-repository\project-ST\OnlineTickets\Web\OnlineTickets.Web.Infrastructure\bin\Debug\netstandard2.1\OnlineTickets.Web.Infrastructure.pdb
+D:\csharp-jobsite-repository\project-ST\OnlineTickets\Web\OnlineTickets.Web.Infrastructure\obj\Debug\netstandard2.1\OnlineTickets.Web.Infrastructure.AssemblyInfoInputs.cache
+D:\csharp-jobsite-repository\project-ST\OnlineTickets\Web\OnlineTickets.Web.Infrastructure\obj\Debug\netstandard2.1\OnlineTickets.Web.Infrastructure.AssemblyInfo.cs
+D:\csharp-jobsite-repository\project-ST\OnlineTickets\Web\OnlineTickets.Web.Infrastructure\obj\Debug\netstandard2.1\OnlineTickets.Web.Infrastructure.csproj.CoreCompileInputs.cache
+D:\csharp-jobsite-repository\project-ST\OnlineTickets\Web\OnlineTickets.Web.Infrastructure\obj\Debug\netstandard2.1\OnlineTickets.Web.Infrastructure.dll
+D:\csharp-jobsite-repository\project-ST\OnlineTickets\Web\OnlineTickets.Web.Infrastructure\obj\Debug\netstandard2.1\OnlineTickets.Web.Infrastructure.pdb

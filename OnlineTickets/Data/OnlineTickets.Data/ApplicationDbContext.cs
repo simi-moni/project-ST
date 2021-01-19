@@ -24,6 +24,12 @@
         {
         }
 
+        public DbSet<Ticket> Tickets { get; set; }
+
+        public DbSet<TicketUser> TicketsUser { get; set; }
+
+        public DbSet<Vehicle> Vehicles { get; set; }
+
         public DbSet<Setting> Settings { get; set; }
 
         public override int SaveChanges() => this.SaveChanges(true);
@@ -47,6 +53,9 @@
 
         protected override void OnModelCreating(ModelBuilder builder)
         {
+            builder.Entity<TicketUser>()
+                .HasKey(t => new { t.UserId, t.TicketId });
+
             // Needed for Identity models configuration
             base.OnModelCreating(builder);
 
