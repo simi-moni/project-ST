@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ff90caf9">
+    <TextView
+        android:text="Add Card"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:id="@+id/text_title_add_card"
+        android:textSize="80px"
+        android:textAlignment="center"
+        android:textColor="#000"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="10px"
+        android:layout_marginTop="10px"
+        android:background="#ff212121"/>
+    <TextView
+        android:text="Enter Name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/text_enter_name" 
+        android:textAlignment="center"
+        android:layout_marginTop="100px"
+        android:textSize="65px"/>
+    <EditText
+        android:inputType="text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/input_enter_name"
+        android:layout_marginLeft="50px"
+        android:layout_marginRight="50px"
+        android:background="#ffe0f7fa"
+        android:textSize="65px"/>
+    <TextView
+        android:text="Enter Card Number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/text_enter_card_number"
+        android:textAlignment="center"
+        android:textSize="65px"/>
+    <EditText
+        android:inputType="text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/input_enter_card_number"
+        android:layout_marginLeft="50px"
+        android:layout_marginRight="50px"
+        android:background="#ffe0f7fa"
+        android:textSize="65px"/>
+    
+    <TextView
+        android:text="Enter CVC Code"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/text_enter_cvc_code" 
+        android:textAlignment="center"
+        android:textSize="65px"/>
+    <EditText
+        android:inputType="text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/input_enter_cvc_code"
+        android:layout_marginLeft="50px"
+        android:layout_marginRight="50px"
+        android:background="#ffe0f7fa"
+        android:textSize="65px"/>
+    <TextView
+        android:text="Enter the expiration date"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/text_enter_the_exp_date"
+        android:textAlignment="center"
+        android:textSize="65px"/>
+    <EditText
+        android:inputType="text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/input_enter_the_exp_date" 
+        android:layout_marginLeft="50px"
+        android:layout_marginRight="50px"
+        android:background="#ffe0f7fa"
+        android:textSize="65px"/>
+    <Button
+        android:text="Register Card"
+        android:layout_width="219.4dp"
+        android:layout_height="60.2dp"
+        android:layout_marginLeft="260px"
+        android:layout_marginTop="100px"
+        android:id="@+id/btn_register_card"
+        />
+    <Button
+        android:text="Back"
+        android:layout_width="160.5dp"
+        android:layout_height="47.0dp"
+        android:layout_marginLeft="350px"
+        android:layout_marginTop="150px"
+        android:id="@+id/btn_back"
+        />
+</LinearLayout>
