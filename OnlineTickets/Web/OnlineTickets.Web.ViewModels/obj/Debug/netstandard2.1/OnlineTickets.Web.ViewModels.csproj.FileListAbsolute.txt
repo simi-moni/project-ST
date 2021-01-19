@@ -1,0 +1,16 @@
+D:\csharp-jobsite-repository\project-ST\OnlineTickets\Web\OnlineTickets.Web.ViewModels\bin\Debug\netstandard2.1\OnlineTickets.Web.ViewModels.deps.json
+D:\csharp-jobsite-repository\project-ST\OnlineTickets\Web\OnlineTickets.Web.ViewModels\bin\Debug\netstandard2.1\OnlineTickets.Web.ViewModels.dll
+D:\csharp-jobsite-repository\project-ST\OnlineTickets\Web\OnlineTickets.Web.ViewModels\bin\Debug\netstandard2.1\OnlineTickets.Web.ViewModels.pdb
+D:\csharp-jobsite-repository\project-ST\OnlineTickets\Web\OnlineTickets.Web.ViewModels\bin\Debug\netstandard2.1\OnlineTickets.Data.Common.dll
+D:\csharp-jobsite-repository\project-ST\OnlineTickets\Web\OnlineTickets.Web.ViewModels\bin\Debug\netstandard2.1\OnlineTickets.Data.Models.dll
+D:\csharp-jobsite-repository\project-ST\OnlineTickets\Web\OnlineTickets.Web.ViewModels\bin\Debug\netstandard2.1\OnlineTickets.Services.Mapping.dll
+D:\csharp-jobsite-repository\project-ST\OnlineTickets\Web\OnlineTickets.Web.ViewModels\bin\Debug\netstandard2.1\OnlineTickets.Data.Models.pdb
+D:\csharp-jobsite-repository\project-ST\OnlineTickets\Web\OnlineTickets.Web.ViewModels\bin\Debug\netstandard2.1\OnlineTickets.Services.Mapping.pdb
+D:\csharp-jobsite-repository\project-ST\OnlineTickets\Web\OnlineTickets.Web.ViewModels\bin\Debug\netstandard2.1\OnlineTickets.Data.Common.pdb
+D:\csharp-jobsite-repository\project-ST\OnlineTickets\Web\OnlineTickets.Web.ViewModels\obj\Debug\netstandard2.1\OnlineTickets.Web.ViewModels.csprojAssemblyReference.cache
+D:\csharp-jobsite-repository\project-ST\OnlineTickets\Web\OnlineTickets.Web.ViewModels\obj\Debug\netstandard2.1\OnlineTickets.Web.ViewModels.AssemblyInfoInputs.cache
+D:\csharp-jobsite-repository\project-ST\OnlineTickets\Web\OnlineTickets.Web.ViewModels\obj\Debug\netstandard2.1\OnlineTickets.Web.ViewModels.AssemblyInfo.cs
+D:\csharp-jobsite-repository\project-ST\OnlineTickets\Web\OnlineTickets.Web.ViewModels\obj\Debug\netstandard2.1\OnlineTickets.Web.ViewModels.csproj.CoreCompileInputs.cache
+D:\csharp-jobsite-repository\project-ST\OnlineTickets\Web\OnlineTickets.Web.ViewModels\obj\Debug\netstandard2.1\OnlineTickets.Web.ViewModels.csproj.CopyComplete
+D:\csharp-jobsite-repository\project-ST\OnlineTickets\Web\OnlineTickets.Web.ViewModels\obj\Debug\netstandard2.1\OnlineTickets.Web.ViewModels.dll
+D:\csharp-jobsite-repository\project-ST\OnlineTickets\Web\OnlineTickets.Web.ViewModels\obj\Debug\netstandard2.1\OnlineTickets.Web.ViewModels.pdb

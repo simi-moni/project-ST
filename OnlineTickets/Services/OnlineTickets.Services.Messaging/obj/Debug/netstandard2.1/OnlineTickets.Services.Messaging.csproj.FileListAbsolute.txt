@@ -1,0 +1,9 @@
+D:\csharp-jobsite-repository\project-ST\OnlineTickets\Services\OnlineTickets.Services.Messaging\bin\Debug\netstandard2.1\OnlineTickets.Services.Messaging.deps.json
+D:\csharp-jobsite-repository\project-ST\OnlineTickets\Services\OnlineTickets.Services.Messaging\bin\Debug\netstandard2.1\OnlineTickets.Services.Messaging.dll
+D:\csharp-jobsite-repository\project-ST\OnlineTickets\Services\OnlineTickets.Services.Messaging\bin\Debug\netstandard2.1\OnlineTickets.Services.Messaging.pdb
+D:\csharp-jobsite-repository\project-ST\OnlineTickets\Services\OnlineTickets.Services.Messaging\obj\Debug\netstandard2.1\OnlineTickets.Services.Messaging.csprojAssemblyReference.cache
+D:\csharp-jobsite-repository\project-ST\OnlineTickets\Services\OnlineTickets.Services.Messaging\obj\Debug\netstandard2.1\OnlineTickets.Services.Messaging.AssemblyInfoInputs.cache
+D:\csharp-jobsite-repository\project-ST\OnlineTickets\Services\OnlineTickets.Services.Messaging\obj\Debug\netstandard2.1\OnlineTickets.Services.Messaging.AssemblyInfo.cs
+D:\csharp-jobsite-repository\project-ST\OnlineTickets\Services\OnlineTickets.Services.Messaging\obj\Debug\netstandard2.1\OnlineTickets.Services.Messaging.csproj.CoreCompileInputs.cache
+D:\csharp-jobsite-repository\project-ST\OnlineTickets\Services\OnlineTickets.Services.Messaging\obj\Debug\netstandard2.1\OnlineTickets.Services.Messaging.dll
+D:\csharp-jobsite-repository\project-ST\OnlineTickets\Services\OnlineTickets.Services.Messaging\obj\Debug\netstandard2.1\OnlineTickets.Services.Messaging.pdb
