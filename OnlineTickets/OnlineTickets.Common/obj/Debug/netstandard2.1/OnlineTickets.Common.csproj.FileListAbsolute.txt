@@ -1,9 +1,0 @@
-D:\csharp-jobsite-repository\project-ST\OnlineTickets\OnlineTickets.Common\bin\Debug\netstandard2.1\OnlineTickets.Common.deps.json
-D:\csharp-jobsite-repository\project-ST\OnlineTickets\OnlineTickets.Common\bin\Debug\netstandard2.1\OnlineTickets.Common.dll
-D:\csharp-jobsite-repository\project-ST\OnlineTickets\OnlineTickets.Common\bin\Debug\netstandard2.1\OnlineTickets.Common.pdb
-D:\csharp-jobsite-repository\project-ST\OnlineTickets\OnlineTickets.Common\obj\Debug\netstandard2.1\OnlineTickets.Common.csprojAssemblyReference.cache
-D:\csharp-jobsite-repository\project-ST\OnlineTickets\OnlineTickets.Common\obj\Debug\netstandard2.1\OnlineTickets.Common.AssemblyInfoInputs.cache
-D:\csharp-jobsite-repository\project-ST\OnlineTickets\OnlineTickets.Common\obj\Debug\netstandard2.1\OnlineTickets.Common.AssemblyInfo.cs
-D:\csharp-jobsite-repository\project-ST\OnlineTickets\OnlineTickets.Common\obj\Debug\netstandard2.1\OnlineTickets.Common.csproj.CoreCompileInputs.cache
-D:\csharp-jobsite-repository\project-ST\OnlineTickets\OnlineTickets.Common\obj\Debug\netstandard2.1\OnlineTickets.Common.dll
-D:\csharp-jobsite-repository\project-ST\OnlineTickets\OnlineTickets.Common\obj\Debug\netstandard2.1\OnlineTickets.Common.pdb
