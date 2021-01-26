@@ -96,9 +96,38 @@
 
         [Authorize]
         [HttpGet]
-        public IActionResult BrowseJobPostings(string id)
+        public IActionResult BrowseJobPostings(string city,string fullTime,string partTime,string id)
         {
+
+            this.ViewBag.CurrentCity = city;
+            this.ViewBag.FullTime = fullTime;
+            this.ViewBag.PartTime = partTime;
+
             var viewModel = this.jobPostingService.GetJobPostingsInfo<BrowseJobPostingViewModel>(id);
+           
+            
+            
+            if (!String.IsNullOrEmpty(city))
+            {
+                viewModel = viewModel.Where(x => x.CityName == city).ToList();
+            }
+
+            if (!String.IsNullOrEmpty(fullTime))
+            {
+
+                viewModel = viewModel.Where(x => x.Type == "Full Time").ToList();
+
+            }
+
+            if (!String.IsNullOrEmpty(partTime))
+            {
+
+                viewModel = viewModel.Where(x => x.Type == "Part Time").ToList();
+
+            }
+
+            var productsCount = viewModel.Count;
+            this.ViewBag.ProductsCount = productsCount;
             return this.View(viewModel);
         }
 
